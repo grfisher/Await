@@ -11,7 +11,7 @@ namespace Await
     {
         static void Main(string[] args)
         {
-            // This is the method we want to run asynchronously.
+            // This is the method we want to run asynchronously...
             CallLongRunningMethod();
 
             // Continue processing while we wait
